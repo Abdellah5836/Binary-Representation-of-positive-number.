@@ -44,5 +44,3 @@ def binary_rep():
     #print(f"\n{tc.cyan}Which is also the binary representation of{tc.blue} {result}.{tc.reset}")
     return f"\n{tc.cyan}[√]Which is also the binary representation of{tc.blue} {result}.{tc.reset}"
 
-res = binary_rep()
-print(res)
